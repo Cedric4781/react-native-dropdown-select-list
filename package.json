@@ -1,5 +1,5 @@
 {
-  "name": "react-native-select-list",
+  "name": "react-native-dropdown-select-list",
   "version": "1.0.0",
   "description": "Forked SelectList with custom scroll and searchPlaceholder",
   "main": "index.ts",
